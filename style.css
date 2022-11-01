@@ -1,0 +1,113 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@500&display=swap');
+
+body{
+  background-color: #0C090D;
+  scrolling: smooth;
+}
+
+.icon{
+  height: 4em;
+  margin: 0em 0em 0em .5em;
+}
+
+.name{
+  display: inline-block;
+  font-family: arial semibold;
+  margin: 0em 0.5em;
+  margin-right: 0em;
+  position: absolute;
+  top: 0.6em;
+  color: #E8F1F2;
+  font-weight: 700;
+  padding: 0em;
+  font-size: 2em;
+}
+.start{
+  font-size: 1.7em;
+  font-weight: 900;
+  font-family: courier new ;  
+  margin-right: 0em;
+  color: red;
+}
+
+nav{
+  background-color: #0C090D;
+  margin: 0;
+  padding: .35em;
+  height: 4em;
+  margin-bottom: 0
+}
+
+.navlinks{
+  display: inline-block;
+  text-decoration: none;
+  font-family: arial;
+  float: right;
+  margin: 0.5em;
+  margin-top: 0.6em;
+  color: #E8F1F2;
+  font-size: 1.8em;
+  transition: background-color .4s ease-out .69ms
+}
+
+.navlinks:hover{
+  color: red;
+  background-color: #E8F1F2;
+  padding: .3em;
+  border-radius: 0.7em;
+  margin-top:0em;
+  font-weight: 800;
+  font-size: 2em;
+}
+
+section{
+  display: inline-block;
+  float: right;
+  padding: 0em 0.7em 0em 0em;
+}
+
+.main{
+  background-color: #0C090D;
+  margin: 0;
+  color: #E8F1F2;
+}
+
+.content{
+  font-size: 3em;
+  margin-left: .5em;
+  font-family: ubuntu;
+  text-shadow: 10px 10px 20px red;
+}
+
+.content .greet{
+  font-size: 1.9em;
+  margint:8em 0em;
+}
+
+.content .fname{
+  font-size: 1.69em;
+  margin-top: 8em;
+}
+
+.content .work{
+/*   margin-left: .5em; */
+  font-size: 1.4em;
+}
+
+.typeing{
+  color: red;
+  text-shadow: 20px 20px 100px red;
+}
+
+.contact{
+color: white;
+text-decoration: none;
+font-family: cursive;
+font-size: 2em;
+}
+
+.contact:hover{
+color: red;
+text-shadow: 25px 5px 30px white;
+}
+
