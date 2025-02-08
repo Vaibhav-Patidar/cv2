@@ -1,0 +1,1 @@
+Inspired from another website i tried creating the automated typing effect using css but animation was not fluid so after a bit of research i came across typed js library and used it to create the typing effect
